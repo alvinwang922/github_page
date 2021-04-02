@@ -6,7 +6,8 @@
 
 Want to visit [these places](#places-i-want-to-visit) with me?
 
-[What animal needs to wear a wig?](joke.md)
+What animal needs to wear a wig?
+[Answer](joke.md)
 
 ##### I love ~~boba~~ coding!
 
