@@ -32,7 +32,7 @@ What animal needs to wear a wig?
    - [x]  Taiwan
    - [ ]  Thailand
 
-As Walt Disney says:
+Walt Disney said:
 > "The way to get started is to quit talking and begin doing."
 
 Feel free to `git add` me to your network!
