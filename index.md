@@ -27,9 +27,9 @@
 
 ## Places I want to visit:
 
-   - [x] Japan
-   - [x] Taiwan
-   - [ ] Thailand
+   - [x]  Japan
+   - [x]  Taiwan
+   - [ ]  Thailand
 
 As Walt Disney says:
 > "The way to get started is to quit talking and begin doing."
