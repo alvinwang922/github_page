@@ -4,7 +4,7 @@
 
 ![Alvin](profile.png)
 
-[Want to visit these places with me?](#places-i-want-to-visit)
+Want to visit [these places](#places-i-want-to-visit) with me?
 
 [What animal needs to wear a wig?](joke.md)
 
