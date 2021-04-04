@@ -19,10 +19,16 @@ What animal needs to wear a wig?
 
 1. Dogs
    - I have a pet dog.
+   - Her name is Veeda.
+   - She is 4.5 years old.
 2. Saxophone
    - I play the alto saxophone.
+   - I also play the tenor saxophone.
+   - I enjoy playing pop and jazz music.
 3. Golf
    - I enjoy playing golf.
+   - Golf really tests my patience.
+   - It's always calming spending half the day anjoying a nice golf course.
 
 ![Dog](dog.png)
 
